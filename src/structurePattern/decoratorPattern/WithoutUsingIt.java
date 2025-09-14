@@ -1,4 +1,4 @@
-package strategyPattern.decoratorPattern;
+package structurePattern.decoratorPattern;
 
 
 

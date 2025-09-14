@@ -1,4 +1,4 @@
-package strategyPattern;
+package structurePattern.strategyPattern;
 
 import ocp.good.PaymentMethod;
 

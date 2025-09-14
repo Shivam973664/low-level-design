@@ -1,4 +1,4 @@
-package strategyPattern;
+package structurePattern.strategyPattern;
 
 interface PaymentMethod{
 	public void processPayment() ;
